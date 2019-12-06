@@ -1,0 +1,33 @@
+
+.exc-background {
+  background-color: #282c34;
+ padding:20px;
+
+ 
+  color: white;
+}
+
+.exc-header {
+  color: #09d3ac;
+  font-size-adjust:inherit;
+}
+
+
+table, th, td {
+  border: 1px solid rgb(241, 237, 237);
+  text-align: left;
+  
+}
+
+table {
+  width: 100%;
+  
+  
+  
+}
+
+th {
+  height: 50px;
+  background-color: #1d6650;
+ 
+}
