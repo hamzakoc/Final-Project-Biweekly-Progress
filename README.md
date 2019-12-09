@@ -4,4 +4,4 @@ Front end has been finished
 
 Currency live API added
 
-Some kind of  requirent will might be changed depent of organization
+Some kind of requirement will might be added depent of organizations' requests
